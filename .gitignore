@@ -1,0 +1,23 @@
+# Node
+ai-chatbot-frontend/node_modules/
+ai-chatbot-frontend/build/
+
+# Python
+backend/venv/
+backend/.env
+**/__pycache__/
+*.pyc
+
+# Logs
+agent_cli/logs/
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Env files
+.env
+.env.*
