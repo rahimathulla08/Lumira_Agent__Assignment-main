@@ -74,6 +74,14 @@ The goal is to showcase **prompt engineering**, **tool usage**, and **multi-step
 - Full logs (`logs_level3.json`)
 
 ---
+## Screenshots
+
+
+![Screenshot1](https://github.com/user-attachments/assets/7d50d2f7-6a37-458b-b1b8-acfc968f2c02)
+
+
+![Screenshot2](https://github.com/user-attachments/assets/ca913d0b-ccb6-4f52-bb6f-3da93e07bb50)
+
 
 
 ## 🚀 How to Run
