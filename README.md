@@ -82,3 +82,8 @@ The goal is to showcase **prompt engineering**, **tool usage**, and **multi-step
 ```bash
 git clone https://github.com/lasyagovindwar/Lumira_Agent__Assignment.git
 cd Lumira_Agent__Assignment
+run this command for backend : uvicorn backend.main:app --reload
+
+run this command for frontend :
+cd ai-chatbot-frontend
+npm start
